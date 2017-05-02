@@ -6,6 +6,7 @@ import re
 class Spider:
     '''
         内涵段子吧的 一个 爬虫类
+        这个测试使用的Python2.7。但到了Python 3.x中urllib库和urilib2库合并成了urllib库，所以不同版本，要注意不同的语法和使用
     '''
 
 
